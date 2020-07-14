@@ -24,10 +24,10 @@
 
 
 #include "extension.h"
-#include "msvc13/UserMessagePBHelpers.h"
-#include "msvc13/protobuf/netmessages.pb.h"
+#include "UserMessagePBHelpers.h"
+#include "netmessages.pb.h"
 #include <memory>
-#include "msvc13/CSmObject.h"
+#include "CSmObject.h"
 
 using namespace SourceModNetMessages;
 

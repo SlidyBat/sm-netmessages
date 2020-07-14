@@ -29,8 +29,8 @@
 * Version: $Id$
 */
 
-#include "msvc13/CSmObject.h"
-#include "msvc13/inetchannel.h"
+#include "CSmObject.h"
+#include <inetchannel.h>
 #include "CSMBitBuf.h"
 
 using namespace SourceModNetMessages;
